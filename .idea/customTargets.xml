@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="bcd720a5-9489-4035-839b-c9302729660f" name="test_calloc_complex" defaultType="MAKE">
+      <configuration id="92847851-a815-4423-b612-51c5bcfa8fec" name="test_calloc_complex" toolchainName="MinGW">
+        <build type="MAKE">
+          <make targetName="test_calloc_complex" />
+        </build>
+        <clean type="MAKE">
+          <make targetName="clean" />
+        </clean>
+      </configuration>
+    </target>
+    <target id="9a41c29d-453d-4d82-b4f1-6a33826ef528" name="calloc_complex" defaultType="MAKE">
+      <configuration id="d2ccf6a0-3c1f-4847-af3c-a8affb832a7a" name="calloc_complex">
+        <build type="MAKE">
+          <make targetName="all" />
+        </build>
+        <clean type="MAKE">
+          <make targetName="clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>
